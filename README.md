@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
- -🌱&I am Just a Teenager student Who Code for Bug Hunting .
+ -🌱 I am Just a Teenager student Who Code for Bug Hunting .
 
 - 🤔 &nbsp; Exploring new technologies and learning python and c++ .
--    &And i am also a bug bounty hunter .
+-    And i am also a bug bounty hunter .
 - 🎓 &nbsp; Studying BBA(CA)in computer application at dy patil college .
 - 💼 &Future goals: Contribute more to Open Source projects. ⚡ And review code in my Bug Bounty part .
   
